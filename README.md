@@ -5,3 +5,4 @@ Recipe app API source code
 * Django 3
 * Django Rest Framework
 * Travis CI
+* Postgres
